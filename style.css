@@ -1,11 +1,12 @@
 
-
 *{
     margin: 8px;
     padding: 1.5px;
     box-sizing:border-box;
 }
+
 /* Heading 1 */
+
 h1{margin: 0px;
     padding: 0px;
     text-align: left;
@@ -20,6 +21,7 @@ h2{
     Margin: 4px;
     padding: 0px;
     font-family: 'Courier New', Courier;
+    color: black;
 }
 
 /* Body */
@@ -37,9 +39,46 @@ p1{
     text-shadow: 0.4px 0.4px 0.4px rgba(0,0,0,0.7);
 }
 
-/* Paragraph 2 */
+/* Paragraph 2, smaller yap sesh*/
 p2{
     font-family: 'Courier New', Courier, monospace; 
     color: rgb(94, 22, 0); font-size: 16px; 
     text-shadow: 0.4px 0.4px 0.4px rgba(0, 0, 0, 0.7);
+}
+
+/* Paragraph 3, pics */
+
+p3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    text-shadow:rgba(0, 0, 0, 0.7);
+    display: block;
+    background-color: rgb(154, 255, 250);
+    padding: 0px 20px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* buttons */
+
+.btn{
+    background-color: rgb(94, 22, 0);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: url('Assets/betterpointer.png'), pointer;
+}
+
+img{
+    width: 10%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    align-items: left;
 }

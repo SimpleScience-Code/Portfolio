@@ -3,6 +3,7 @@
     margin: 8px;
     padding: 1.5px;
     box-sizing:border-box;
+    cursor: url("Assets/betterpointer.png"), url("D:/Desktop/Advaith's Folder/Petition/Portfolio/Picture2.png"), pointer;
 }
 
 /* Heading 1 */
@@ -22,6 +23,14 @@ h2{
     padding: 0px;
     font-family: 'Courier New', Courier;
     color: black;
+}
+
+/* Heading 3 I feel this is rly cringe, thank god no one is looking at this site, RIGHT? */
+
+h3{
+    margin: 4px;
+    padding: 0px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;    color: black;
 }
 
 /* Body */
@@ -60,6 +69,17 @@ p3{
     text-decoration: none;
 }
 
+/* Paragraph 4, Big yap sesh, thinking its too much? */
+
+p4{
+    font-family: 'Roboto', monospace;
+    color: white;
+    font-size: 16px;
+    text-shadow: 0.4px 0.4px 0.4px rgba(0,0,0,0.7);
+    display: inline-block;
+    text-align: left;
+    background-color: rgb(94, 22, 0)
+}
 /* buttons */
 
 .btn{
@@ -72,13 +92,13 @@ p3{
     display: inline-block;
     font-size: 16px;
     margin: 4px 2px;
-    cursor: url('Assets/betterpointer.png'), pointer;
+    cursor: url("Assets/betterpointer.png"), url("D:/Desktop/Advaith's Folder/Petition/Portfolio/Picture2.png"), pointer;
 }
 
-img{
+.img{
     width: 10%;
     height: auto;
-    display: block;
+    display: none;
     margin: 0 auto;
     align-items: left;
 }

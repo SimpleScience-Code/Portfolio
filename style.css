@@ -31,7 +31,12 @@ h2{
 h3{
     margin: 4px;
     padding: 0px;
-font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    display: block;
 }
 
 /* Body */
@@ -55,7 +60,7 @@ main{
 
 /* Paragraph 1, the one with the big yap session */
 
-p1{
+.p1{
     font-family: 'Courier New', Courier, monospace;
     color: rgb(94, 22, 0);
     font-size: 16px;
@@ -63,7 +68,7 @@ p1{
 }
 
 /* Paragraph 2, smaller yap sesh*/
-p2{
+.p2{
     font-family: 'Courier New', Courier, monospace; 
     color: rgb(94, 22, 0); font-size: 16px; 
     text-shadow: 0.4px 0.4px 0.4px rgba(0, 0, 0, 0.7);
@@ -71,7 +76,7 @@ p2{
 
 /* Paragraph 3, pics */
 
-p3{
+.p3{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 16px;
     color: rgb(0, 0, 0);
@@ -85,7 +90,7 @@ p3{
 
 /* Paragraph 4, Big yap sesh, thinking its too much? */
 
-p4{
+.p4{
     font-family: 'Roboto', monospace;
     color: white;
     font-size: 16px;
@@ -93,6 +98,14 @@ p4{
     display: inline-block;
     text-align: left;
     background-color: rgb(94, 22, 0)
+}
+
+.p5{
+    font-family: 'roboto', monospace;
+    color: rgb(94, 22, 0);
+    font-size: 16px;
+    text-shadow: rgba(0, 0, 0, 0.7);
+    height: 1vh;
 }
 /* buttons */
 
@@ -150,6 +163,6 @@ img{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.page-section{
-    height: 0vh;
-}
+
+
+/* 1 am 15/nov/26 got pretty stressed today, did a lot of work done, expressed my gratitude to the HC lords, made a nvigation bar, but for a few minutes, prolly seconds, a put an pic with my amazon parcel, it had my adress, im sure i couldnt read it even when zoomed in or out, but i though t someone might have some imagine enhancing software and dox me, i got rly worried and started edite a bunch of stuff and blurred it all out, jeez, mini panik attack rly T_T   */

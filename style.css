@@ -46,18 +46,23 @@ h3{
 header{
     margin: 0px;
 }
+
 body{
     background-color: rgb(244,104,10);
     margin: 0px;
     padding: 0px;
+    margin-bottom: 0px;
 }
 
 html{
     scroll-behavior: smooth;
+    margin-bottom: 0px;
 }
 
 main{
     margin-top: 0px;
+    margin-left: 0px;
+    padding-left: 0px;
 }
 
 /* Paragraph 1, the one with the big yap session */
@@ -114,6 +119,27 @@ main{
     color: rgb(94, 22, 0);
     font-size: 16px;
     text-shadow: rgba(0, 0, 0, 0);
+}
+
+.p7{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 16px;
+    text-shadow: rgba(0, 0, 0, 0.7);
+    display: flex;
+    width: 98.8vw;
+    height: 240px;
+    margin-left: -0.8vw;
+    padding-left: 12px;
+    align-content: left;
+    align-items: center;
+    background-color: rgb(94, 22, 0);
+    border: 2px;
+    border-style: solid;
+    border-color: gray;
+    box-sizing: border-box;
+    gap: 16px;
+
 }
 /* buttons */
 

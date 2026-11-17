@@ -1,6 +1,5 @@
 
 *{
-    margin: 8px;
     padding: 1.5px;
     box-sizing:border-box;
     cursor: url("Assets/betterpointer.png"), url("D:/Desktop/Advaith's Folder/Petition/Portfolio/Picture2.png"), pointer;
@@ -121,17 +120,16 @@ main{
     text-shadow: rgba(0, 0, 0, 0);
 }
 
-.p7{
+.p8{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: white;
     font-size: 16px;
     text-shadow: rgba(0, 0, 0, 0.7);
     display: flex;
-    width: 98.8vw;
+    width: 100%;
     height: 240px;
-    margin-left: -0.8vw;
     padding-left: 12px;
-    align-content: left;
+    justify-content: flex-start;
     align-items: center;
     background-color: rgb(94, 22, 0);
     border: 2px;
@@ -143,18 +141,42 @@ main{
 }
 /* buttons */
 
-.btn{
+.btn1{
     background-color: rgb(94, 22, 0);
-    color: white;
+    color: rgb(0, 0, 0);
     border: none;
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
     font-size: 16px;
     margin: 4px 2px;
-    cursor: url("Assets/betterpointer.png"), url("D:/Desktop/Advaith's Folder/Petition/Portfolio/Picture2.png"), pointer;
+    background-image: url("Assets/BTN1.png"), url("D:/Desktop/Advaith's Folder/Petition/Portfolio/BTN1.png");
 }
+
+.btn2{
+    background-color: rgb(94, 22, 0);
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    background-image: url("Assets/BTN2.png"), url("D:/Desktop/Advaith's Folder/Petition/Portfolio/BTN2.png");
+}
+
+.btn3{
+    background-color: rgb(94, 22, 0);
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    background-image: url("Assets/BTN2.png"), url("D:/Desktop/Advaith's Folder/Petition/Portfolio/BTN2.png");
+}
+
 
 img{
     width: 50%;
@@ -199,4 +221,3 @@ img{
 
 
 
-/* 1 am 15/nov/26 got pretty stressed today, did a lot of work done, expressed my gratitude to the HC lords, made a nvigation bar, but for a few minutes, prolly seconds, a put an pic with my amazon parcel, it had my adress, im sure i couldnt read it even when zoomed in or out, but i though t someone might have some imagine enhancing software and dox me, i got rly worried and started edite a bunch of stuff and blurred it all out, jeez, mini panik attack rly T_T   */

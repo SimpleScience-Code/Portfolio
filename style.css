@@ -37,6 +37,8 @@ h3{
     border-style: solid;
     border-color: white;
     display: block;
+    background-color: rgb(0, 47, 255);
+    color: white;
 }
 
 /* Body */
@@ -105,7 +107,13 @@ main{
     color: rgb(94, 22, 0);
     font-size: 16px;
     text-shadow: rgba(0, 0, 0, 0.7);
-    height: 1vh;
+}
+
+.p6{
+    font-family: 'Roboto', monospace;
+    color: rgb(94, 22, 0);
+    font-size: 16px;
+    text-shadow: rgba(0, 0, 0, 0);
 }
 /* buttons */
 

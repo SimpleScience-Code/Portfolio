@@ -120,6 +120,13 @@ main{
     text-shadow: rgba(0, 0, 0, 0);
 }
 
+.p7{
+    font-family: 'Roboto', monospace;
+    color: rgb(94, 22, 0);
+    font-size: 16px;
+    text-shadow: rgba(0, 0, 0, 0);
+}
+
 .p8{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: white;
@@ -218,6 +225,3 @@ img{
     color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
-
-

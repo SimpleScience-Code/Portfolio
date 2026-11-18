@@ -4,10 +4,10 @@ This is my own website; this is an extension of the About Me page in my previous
 <img width="1288" height="626" alt="image" src="https://github.com/user-attachments/assets/7de5dca4-d699-43b5-a1be-35f748c52eca" />
 <img width="1287" height="621" alt="image" src="https://github.com/user-attachments/assets/5a09cd40-1a1b-42e8-a853-c791188c42b9" />
 
-What it has;
+What it has;<br>
 • Dedicated pages for each section<br>
-• A basic overview.
-• A skills and achievements section.
-• A section for all the projects I did.
-• A section for the goals I've set for myself.
-• And a small section showing how I got the inspiration to start these projects
+• A basic overview.<br>
+• A skills and achievements section.<br>
+• A section for all the projects I did.<br>
+• A section for the goals I've set for myself.<br>
+• And a small section showing how I got the inspiration to start these projects<br>

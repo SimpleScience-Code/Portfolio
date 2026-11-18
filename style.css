@@ -5,6 +5,17 @@
     cursor: url("Assets/betterpointer.png"), url("D:/Desktop/Advaith's Folder/Petition/Portfolio/Picture2.png"), pointer;
 }
 
+/* COloros */
+
+.red {color : red}
+.white {color : white}
+.black {color : black}
+.blue {color : blue}
+.green {color : green}
+.orange {color : orangered}
+.grey {color : grey}
+.gray {color : gray}
+
 /* Heading 1 */
 
 h1{ margin: 0px;

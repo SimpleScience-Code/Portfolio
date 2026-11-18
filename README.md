@@ -10,4 +10,13 @@ What it has;<br>
 • A skills and achievements section.<br>
 • A section for all the projects I did.<br>
 • A section for the goals I've set for myself.<br>
-• And a small section showing how I got the inspiration to start these projects<br>
+• And a small section showing how I got the inspiration to start these projects. <br><br>
+
+I have every link I used, plus links to all my projects, but here they are anyway. <br>
+Active Programs: <br>
+Phantom : <a href="https://phantom.hackclub.com/home"> Visit Phantom!</a><br>
+Forge : <a href="https://forge.hackclub.com/home"> Visit Forge!</a><br>
+
+Ended Programs  <br>
+Macondo : <a href="https://macondo.hackclub.com/dashboard">Visit Macondo!</a><br>
+Stardance : <a href="https://stardance.hackclub.com/">Visit Stardance!</a>

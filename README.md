@@ -19,4 +19,6 @@ Forge : <a href="https://forge.hackclub.com/home"> Visit Forge!</a><br>
 
 Ended Programs  <br>
 Macondo : <a href="https://macondo.hackclub.com/dashboard">Visit Macondo!</a><br>
-Stardance : <a href="https://stardance.hackclub.com/">Visit Stardance!</a>
+Stardance : <a href="https://stardance.hackclub.com/">Visit Stardance!</a><br>
+
+Tip : Control-click the links so they will open in a new tab!
